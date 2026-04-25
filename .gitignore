@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.hdf5
+*.tif
+*.tiff
+*.log
+Thumbs.db
